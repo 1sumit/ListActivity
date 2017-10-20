@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Runtimechanges2</string>
+    <array name="myarr">111</array>
+</resources>
